@@ -19,6 +19,11 @@ This project is a Power BI dashboard designed to help a bank understand customer
 * Provides the bank with a clear understanding of customer spending trends.
 * Helps identify opportunities for personalized offers and promotions.
 
-## Screenshots
+## Overview
 
 ![Dashboard Screenshot 1](creditcard1.png)
+
+## Presentation
+
+The full PowerPoint presentation of the Credit Card Transactions Insights Report can be viewed [here](link-to-your-ppt-file).
+
