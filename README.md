@@ -20,10 +20,8 @@ This project is a Power BI dashboard designed to help a bank understand customer
 * Helps identify opportunities for personalized offers and promotions.
 
 ## Overview
-
+The full PowerPoint presentation of the Credit Card Transactions Insights Report can be viewed [here]([link-to-your-ppt-file](https://github.com/Katlego-k365/credit-card-transactions-report/blob/main/Credit_Card_Transactions_Report_Slides.pptx)).
 ![Dashboard Screenshot 1](creditcard1.png)
 
-## Presentation
 
-The full PowerPoint presentation of the Credit Card Transactions Insights Report can be viewed [here](link-to-your-ppt-file).
 
